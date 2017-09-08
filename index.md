@@ -9,6 +9,8 @@ My name is Eugene and i am currently a student at NVC. I am 20 years old, and i 
 
 ### Contact me:
 
-(enter info here)
+XXX-XXX-XXXX
+Steam: Wantagirlfriend
+
 
 ### Projects:
