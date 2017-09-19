@@ -20,7 +20,7 @@ One of the major problems with Rhythym or Beat games is the response time to a p
 
 Another issue that could be looked at is the hit markers on bosses, as weapons tend to fall through or pass an enemy, dealing no damage or not registering any. When dealing with end game bosses, weapons that dont register can make or break the player, making them give up the game.
 
-A issue that appears from time to time is the drop rate of weapons which is necessary to get any real progress done. In my playthrough on PSP i had numerous drops of weapons, but on PS4 the droprate seemed to have gone berserk, with end game weapons being dropped at Level 1. Making sure that players receive weapons relevant to their level is surefire way to keep them playing, otherwise with overpowered, they tend to lose interest.
+A issue that appears from time to time is the drop rate of weapons which is necessary to get any real progress done. In my playthrough on PSP i had weapons dropping that related to my level, but on PS4 the droprate seemed to have gone berserk, with end game weapons being dropped at Level 1. Making sure that players receive weapons relevant to their level is surefire way to keep them playing, otherwise with overpowered, they tend to lose interest.
 
 Making sure that the players hit their mark(both rhythym and enemy) is necessary to make this game fun, and is one of the few things needing testing.
 # Final Thoughts
