@@ -8,9 +8,9 @@
 # Publisher
  *Sony Interactive Entertainment
 # Developers
- *Pyramid Games
- *Sony Interactive Entertainment
- *SIE Japan Studio
+ * Pyramid Games
+ * Sony Interactive Entertainment
+ * SIE Japan Studio
 
 # Summary
 
