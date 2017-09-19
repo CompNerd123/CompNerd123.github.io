@@ -1,9 +1,9 @@
 # Game Review
 
 # Details
-
-# Patapon
-* Type of Game
+# Name of Game
+* Patapon
+# Type of Game
 * Rhythym Game
 # Publisher
  * Sony Interactive Entertainment
