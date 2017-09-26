@@ -14,4 +14,4 @@ Steam: Wantagirlfriend
 
 
 ### Projects:
-[projects](portfolio).
+[Projects](portfolio).
