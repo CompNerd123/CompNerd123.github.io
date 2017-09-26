@@ -1,1 +1,3 @@
-# CompNerd123.github.io
+# Heroku Review
+One of the things i would using Heroku would be to implement a basic pipeline so that the production team can have something to look at once an idea has been decided. Once the initial code(master branch) is set, we would begin to fork it out to team members to begin work, and begin to add changes to code. Once the code is ready for "use", Heroku Review App has a neat way of making sure whether that the code will run smoothly or not, and does it quick so that it can either be pulled or pushed.Great thing about this is that we can run the Master Branch with the least possible errors. This will help with later builds if they become corrupted or just messed up beyond hope.
+Another great thing that Heroku offers is CI(Command Interface), which is easily integrates with Pipelines, and allows for rigourous testing. It makes it so that it'll test for any 
