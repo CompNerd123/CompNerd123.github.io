@@ -9,6 +9,14 @@ Simple, clean cut graphics and controls combine to give an easy to learn but eng
 * Test Objectives
 
 To find any hidden bugs within the game; no things that can be broken will be left in the game. Make sure game is user-friendly.
+* Enviroment Community
+
+* Acceptance Criteria
+
+Effortless play originating from a simple control scheme.
+Unique experience – the only game to be based around setting fires.
+Varied solutions to the mini-puzzles as the player works out the best places to start fires.
+Exploration of small environments.
 
 # Section 2:Plan
 * Test Description
