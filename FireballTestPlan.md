@@ -87,3 +87,9 @@ Testing will be done based on difficulty of change needed. Will have a 1-2 day r
 
 * Methods and Constraints 
 
+Will test on thing at a time to ensure that our primary focus doesnt shift to other porjects- helps ensure that we complete test fast.
+
+Partial testing will be done, since most of game is completed. Will extend testing if bugs are found, or settings are not the consumers liking.
+
+Testing constraints will include the shift from Ps2 and hauling over assets correctly. Making sure not to mess with original Code and etc.
+
