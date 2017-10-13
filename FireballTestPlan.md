@@ -21,10 +21,11 @@ Fireball is a budget game for PS2. The player controls a ball of fire, and trave
 On each field (level) the player has an ultimate goal of igniting the torch (brazier) and thus clearing the field – but the torch is generally positioned at a high point and out of reach. The player must use a combination of platform skills and dynamic environmental features (for instance, by burning the supports under the torch down to the ground) in order to clear the field.
 Simple, clean cut graphics and controls combine to give an easy to learn but engaging play experience.
 
-
-
-
 # Section 2:Plan
+* Test Description
+* Test Team
+* Milestones
+* Budgets
 
 # Section 3:Specifications and Evaluations
 
