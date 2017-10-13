@@ -11,34 +11,54 @@ Simple, clean cut graphics and controls combine to give an easy to learn but eng
 To find any hidden bugs within the game; no things that can be broken will be left in the game. Make sure game is user-friendly.
 * Enviroment Community
 
+PC enviroment
+
 * Acceptance Criteria
 
 Effortless play originating from a simple control scheme.
+
 Unique experience – the only game to be based around setting fires.
+
 Varied solutions to the mini-puzzles as the player works out the best places to start fires.
+
 Exploration of small environments.
 
 # Section 2:Plan
 * Test Description
 
-Will do testing on controls, and the ball heating up. Ball will be tested to see if the increase it receives properly affects the block it touches. Controls will be tested to see response time to player input and to see whether controls are functioning properly
+Will do testing on controls, and the ball heating up. Ball will be tested to see if the increase it receives properly affects the block it touches. Controls will be tested to see response time to player input and to see whether controls are functioning properly.
 * Test Team
 
 Rick Sanchez
 
 Morty Smith
 
-Mr.PoopyButthole
+Mr.Meeseeks
 
 Jerry Smith(for emotional support?)
 * Milestones
+
+Test for controls begins 4/20/17
+
+Completed Control Testing 5/20/17
+
+Testing for user-friendliness begins 5/24/17
+
+Completed testing for userfriendliness 6/8/17
+
+Proper increase heat testing 6/10/17
+
+Completed Proper increase heat testing 7/1/17
+
 * Budgets
 
 Funds given by Sony, a total of 3.50
 
 * Testing 
 
+Szechuan Sauce to hold in my inner demons
 
+A Dell 2017 
 # Section 3:Specifications and Evaluations
 * Requirement Specifications
 
