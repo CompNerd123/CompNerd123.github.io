@@ -58,7 +58,32 @@ Funds given by Sony, a total of 3.50
 
 Szechuan Sauce to hold in my inner demons
 
-A Dell 2017 
+A Dell Tower and Screen built in 2017 
+
+Unity engine
+
+Unreal engine
+
+* Testing Materials
+
+Will be expecting testers to write a small summary of bugs found in game while being tested
+
+Everytime a bug is found, will be added to a document and recorded for future reference
+
+* Test Training
+
+Personnel will be trained in basic coding and Java
+
+Will do blackbox and whitebox testing, userability, and performance testing.
+
 # Section 3:Specifications and Evaluations
 * Requirement Specifications
+
+Will need access to Steam to make sure that game wont be corrupted or mistreated in any way upon delivery
+
+Sony to see past codes that were used in the past, talk to people who worked on the game before
+
+Testing will be done based on difficulty of change needed. Will have a 1-2 day relaxation period to ensure that personnel arent being taxed on.
+
+* Methods and Constraints 
 
