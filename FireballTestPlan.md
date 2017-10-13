@@ -11,7 +11,7 @@ Simple, clean cut graphics and controls combine to give an easy to learn but eng
 To find any hidden bugs within the game; no things that can be broken will be left in the game. Make sure game is user-friendly.
 * Enviroment Community
 
-PC enviroment
+PC environment
 
 * Acceptance Criteria
 
