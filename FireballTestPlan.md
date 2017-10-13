@@ -1,6 +1,4 @@
-# Fireball
-
-# Test Plan
+# Fireball Test Plan
 
 # Guidelines For Test Plan
 * Start Early
