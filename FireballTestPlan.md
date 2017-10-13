@@ -1,18 +1,5 @@
 # Fireball Test Plan
 
-# Guidelines For Test Plan
-* Start Early
-* Keep Test Plan Flexible
-* Review Test Plan
-* Concise and Readable
-* Calculate the Planning Effort
-* Spend time to Complete the Test Plan
-
-# Test Plan Sections
-* Section 1: General Information
-* Section 2: Plan
-* Section 3: Specifications/Evaluations
-
 # Section 1: General Information
 * Summary
 
