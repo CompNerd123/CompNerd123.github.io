@@ -23,9 +23,12 @@ On each field (level) the player has an ultimate goal of igniting the torch (bra
 Simple, clean cut graphics and controls combine to give an easy to learn but engaging play experience.
 * Test Objectives
 
+To find any hidden bugs within the game; no things that can be broken will be left in the game. Make sure game is user-friendly.
 
 # Section 2:Plan
 * Test Description
+
+Will do testing on controls, and the ball heating up. Ball will be tested to see if the increase it receives properly affects the block it touches. Controls will be tested to see response time to player input and to see whether controls are functioning properly
 * Test Team
 
 Rick Sanchez
@@ -41,8 +44,7 @@ Jerry Smith(for emotional support?)
 Funds given by Sony, a total of 3.50
 
 * Testing 
-** Requirements
-***
+
 
 # Section 3:Specifications and Evaluations
 * Requirement Specifications
