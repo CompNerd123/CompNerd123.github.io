@@ -3,25 +3,25 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #1
 * Test Case Name:
-  * #Number
+  * Jumping Beans
 * Component: 
   * Description
 * Test Case Designer:
-  * Name
+  * Eugene Vasquez
 * Creation Date:
-  * Date
+  * 10/16/17
 * Modified By:
-  * Name
+  * Rick Sanchez
 * Modified Date:
-  * Date
+  * 10/17/17
 * Requirements Covered:
-  * Description
+  * 
 * Test Description/Purpose:
-  * Description
+  * To determine whether jump mechanics work properly with terrain.
 * Pre-Test Conditions:
-  * Description
+  * The level needs to be running along with the interaction buttons to determine whether they have any effect on jumping.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
