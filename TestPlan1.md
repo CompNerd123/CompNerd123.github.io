@@ -25,20 +25,13 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 |Jumping against Water |Slow rise, slow fall | (√)|			
+| 2 |Jumping against Land |Normal rise, normal fall |(√) |			
+| 3 |Jumping along Tilted landscape |Cannot jump with angles exceeding 75 degrees |(√) |			
 
 ## Overall Test Status:
 
-
+No problems so far. might do another round fo testing in the future when other features are added
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
