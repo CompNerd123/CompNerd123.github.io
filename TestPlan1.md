@@ -7,7 +7,7 @@
 * Test Case Name:
   * Jumping Beans
 * Component: 
-  * Description
+  * Testing Collision
 * Test Case Designer:
   * Eugene Vasquez
 * Creation Date:
