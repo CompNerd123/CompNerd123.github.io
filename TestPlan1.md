@@ -17,7 +17,7 @@
 * Modified Date:
   * 10/17/17
 * Requirements Covered:
-  * 
+  * Jumping under certain enviroments/ angles.
 * Test Description/Purpose:
   * To determine whether jump mechanics work properly with terrain.
 * Pre-Test Conditions:
