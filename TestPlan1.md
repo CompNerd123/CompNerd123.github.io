@@ -43,8 +43,8 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |10/18/17 |Rick Sanchez |(√) |			
+| 2 |10/20/17 |Rick Sanchez |(√) |			
+| 3 |10/22/17 |Rick Sanchez |(√) |			
 
 
