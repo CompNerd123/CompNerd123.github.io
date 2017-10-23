@@ -4,5 +4,6 @@
 * [Game Review Three](gamecritique3.md)
 * [Heroku](Heroku.md)
 * [Fireball Test Plan](FireballTestPlan.md)
+* [Game Review Four](gamecritique4.md)
 
 Go back to [home page](index.md).
