@@ -1,27 +1,30 @@
 # Information
 ## Game Title
-Full title of the game.
+BattleBlock Theatre
 ## Game Type
-The genre and play style of the game
+platformer
 ## Platform
-What systems do they play on besides the PC master race?
+Xbox 360, Microsoft Windows, Linux, macOS
 ## Game Rating
-metacritic score 
+Teen, 85
 ## Publisher
-who released this pile of code
+The Behemoth, Microsoft Studios
 ## Developer
-Who made this pile of code
+The Behemoth, Big Timber Studio
 ## Publishing Date
-When did they make it?
+April 3, 2013
 # Synopsis
-Game premise or short one to two sentence overview
+Crashed on a island dominated by a cat society, your best friend has been under the spell of an evil hat, and you must perform in the plays the cats give you in order to get further and further along. You have to avoid dangerous obstacles and get to the end so that you progress, but be warned!The deeper you go, the harder the challenges become.
 
 # Game Play Summary
 ## Playability
+It has a lot of playability, as you can attempt to reach the timer and collection score given. You can collect items, so it you can take your time playing.
 ### Single/Multiplayer
+It has a co-op function.
 ### Controls
+it moves left and right, has a jump function. has interactables, and you can move objects by pushing against them.
 
 # Bugs
-What bugs happened during your critique.
+No bugs happened, just some minor missteps from my end
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+Honestly a fun game, i could play for hours with friends. It has nice colors and artwork, and the mechanics are fun to play with. Honestly a game that shouldve received more love on release. The narrator makes the game 100 times better, as his wacky voice adds so much more.
