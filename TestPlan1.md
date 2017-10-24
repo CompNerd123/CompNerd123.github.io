@@ -59,48 +59,48 @@ No problems so far. might do another round fo testing in the future when other f
 * Modified Date:
   * 10/25/17
 * Requirements Covered:
-  * Description
+  * Needs to make sure inputs are working correctly
 * Test Description/Purpose:
-  * Description
+  * To determine player input is registered correctly
 * Pre-Test Conditions:
-  * Description
+  * Player input needs to be working correctly when concerning decisions, or interacting with things
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | Moving items in game|Moving items in desired direction |(√) |			
+| 2 |Picking up items |Making sure that items are being placed in inventory |(√)|			
+| 3 |When making decisions, player input is registered |Decisions are made by player, not defaulted if broken |(√)|			
 		
 
 ## Overall Test Status:
 
-
+No problems. Will have to do more tests as code is added to game
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |	
+| 1 |10/26/17 |Rick Sanchez |(√) |			
+| 2 |10/28/17 |Rick Sanchez |(√) |			
+| 3 |10/30/17 |Rick Sanchez |(√) |	
 
 # Test Case 3
 
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * 3.0
 * Test Case Name:
-  * #Number
+  * Save Game
 * Component: 
-  * Description
+  * testing that save game function works
 * Test Case Designer:
-  * Name
+  * Eugene Vasquez
 * Creation Date:
-  * Date
+  * 11/01/17
 * Modified By:
-  * Name
+  * Rick Sanchez
 * Modified Date:
-  * Date
+  * 11/02/17
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
