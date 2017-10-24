@@ -102,35 +102,30 @@ No problems. Will have to do more tests as code is added to game
 * Modified Date:
   * 11/02/17
 * Requirements Covered:
-  * Description
+  * Needs to make sure that saves are working properly
 * Test Description/Purpose:
-  * Description
+  * To determine when saves are named correctly
 * Pre-Test Conditions:
-  * Description
+  * All assets need to be loaded before playing; needs to test with everything correctly
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 |Special characters dont break the file when naming |Saves no matter the name given |(√)|			
+| 2 |Needs to have correct saving format |when saving, a file will be created when using correct format |(√)|			
+| 3 |Creates file if one doesnt exit |if the file doesnt exist, it creates a new one to save to |(√)|			
+		
 
 ## Overall Test Status:
 
-
+Saving is working properly, but need to see how big of a file the game can handle, and whether itll make a new file to read from if
+save file is too big, or not save at all.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |11/04/17 |Rick Sanchez |(√) |			
+| 2 |11/06/17 |Rick Sanchez |(√) |			
+| 3 |11/08/17 |Rick Sanchez |(√) |			
 
 
 
