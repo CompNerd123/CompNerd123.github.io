@@ -1,28 +1,35 @@
 # Information
 ## Game Title
-Full title of the game.
+Plague Inc Evolved
 ## Game Type
-The genre and play style of the game
+Strategy, casual
 ## Platform
-What systems do they play on besides the PC master race?
+PlayStation 4, Xbox One, Microsoft Windows, Linux
 ## Game Rating
-metacritic score 
+80%, rated teen
 ## Publisher
-who released this pile of code
+ Ndemic Creations
 ## Developer
-Who made this pile of code
+ Ndemic Creations
 ## Publishing Date
-When did they make it?
+September 18, 2015
 # Synopsis
-Game premise or short one to two sentence overview
-
+You turn a "harmless" bacteria loose to the world, and you have to infect as many people
+as you can, and once infected, you can increase the lethality of your virus by spending points
+increasing the chances of killing someone.
 # Game Play Summary
 ## Playability
+Can be replayed, but once you unlock all items, the limit on replays is greatly increased( in terms
+of how much you want to play after that)
 ### Single/Multiplayer
+Single-player video game, Multiplayer video game
 ### Controls
+Navigation through the menu to expand and collect virus points to increase the lethality of your virus.
 
 # Bugs
-What bugs happened during your critique.
+The game crashed when i decided to drastically upgrade the virus
+and it broke the game, forcing it to quit.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+A fun game, but honestly its more fun with friends and can only be played once in a while.
+Short and sweet game, but honestly it does have a limit on its playability.
 
