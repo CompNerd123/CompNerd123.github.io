@@ -8,6 +8,7 @@
 * [Test Case](TestPlan1.md)
 * [Game Review Five](gamecritique5.md)
 * [Test Tools Research](TestToolsResearch.md)
+* [Game Review Six](gamecritique6.md)
 
 
 Go back to [home page](index.md).
