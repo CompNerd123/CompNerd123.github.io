@@ -9,7 +9,7 @@
 * [Game Review Five](gamecritique5.md)
 * [Test Tools Research](TestToolsResearch.md)
 * [Game Review Six](gamecritique6.md)
-* [Badboy Tutorial](BadboyTesting.png)
+* [Badboy Tutorial](BadBoyTesting.png)
 * [Badboy Tutorial File](VasquezEugene_Tutorial.bx)
 
 Go back to [home page](index.md).
