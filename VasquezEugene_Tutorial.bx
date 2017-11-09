@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<WebScript v='30205'>
+	<Variables>
+		<count>1</count>
+		<name>New Variable</name>
+		<value>3</value>
+		<dataSourceId>50</dataSourceId>
+		<obfuscate>false</obfuscate>
+		<autoLink>true</autoLink>
+		<isAutoVariable>false</isAutoVariable>
+		<autoVariableExpression/>
+		<saveValues>true</saveValues>
+	</Variables>
+	<nextScriptId>78</nextScriptId>
+	<Object>null</Object>
+	<dataSources>
+		<count>1</count>
+		<source>
+			<id>50</id>
+			<ValueListDataSource v='1'>
+				<ver>14</ver>
+				<id>50</id>
+				<VariableValueSet v='2'>
+					<name/>
+					<saveValues>true</saveValues>
+					<count>4</count>
+					<value>0</value>
+					<value>1</value>
+					<value>2</value>
+					<value>3</value>
+				</VariableValueSet>
+			</ValueListDataSource>
+		</source>
+	</dataSources>
+	<Script v='3'>
+		<ver>14</ver>
+		<id>1</id>
+		<Summary v='3'>
+			<played>5</played>
+			<succeeded>5</succeeded>
+			<maxResponseTime>24</maxResponseTime>
+			<averageResponseTime>20</averageResponseTime>
+		</Summary>
+		<childCount>1</childCount>
+		<ChildItems>
+			<SuiteItem v='1'>
+				<ver>14</ver>
+				<id>4</id>
+				<Summary v='3'>
+					<played>5</played>
+					<succeeded>5</succeeded>
+					<maxResponseTime>24</maxResponseTime>
+					<averageResponseTime>20</averageResponseTime>
+				</Summary>
+				<childCount>1</childCount>
+				<ChildItems>
+					<TestItem v='3'>
+						<ver>14</ver>
+						<id>3</id>
+						<Summary v='3'>
+							<played>5</played>
+							<succeeded>5</succeeded>
+							<maxResponseTime>24</maxResponseTime>
+							<averageResponseTime>20</averageResponseTime>
+						</Summary>
+						<childCount>1</childCount>
+						<ChildItems>
+							<Step v='4'>
+								<ver>14</ver>
+								<id>2</id>
+								<Summary v='3'>
+									<played>5</played>
+									<succeeded>5</succeeded>
+									<maxResponseTime>24</maxResponseTime>
+									<averageResponseTime>20</averageResponseTime>
+								</Summary>
+								<childCount>5</childCount>
+								<ChildItems>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>7</id>
+										<Summary v='3'>
+											<played>1</played>
+											<succeeded>1</succeeded>
+											<maxResponseTime>20</maxResponseTime>
+											<averageResponseTime>20</averageResponseTime>
+										</Summary>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host/>
+										<path>C:/Program Files (x86)/Badboy/html/tutorial/sscatalog.html</path>
+										<protocol>file</protocol>
+										<resource/>
+										<targetFrame>testsite</targetFrame>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: file:///C:/Program%20Files%20(x86)/Badboy/html/tutorial/surfnstuff.html
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>windows-1252</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>37</id>
+										<Summary v='3'>
+											<played>1</played>
+											<succeeded>1</succeeded>
+											<maxResponseTime>24</maxResponseTime>
+											<averageResponseTime>24</averageResponseTime>
+										</Summary>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host/>
+										<path>C:/Program Files (x86)/Badboy/html/tutorial/sscatalog.html</path>
+										<protocol>file</protocol>
+										<resource/>
+										<targetFrame>testsite</targetFrame>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: file:///C:/Program%20Files%20(x86)/Badboy/html/tutorial/surfnstuff.html
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>windows-1252</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>42</id>
+										<Summary v='3'>
+											<played>1</played>
+											<succeeded>1</succeeded>
+											<maxResponseTime>21</maxResponseTime>
+											<averageResponseTime>21</averageResponseTime>
+										</Summary>
+										<childCount>1</childCount>
+										<ChildItems>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>43</id>
+												<name>item</name>
+												<value>0</value>
+												<sendEquals>true</sendEquals>
+												<method>1</method>
+											</Parameter>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host/>
+										<path>C:/Program Files (x86)/Badboy/html/tutorial/ssbuy.html?item=1</path>
+										<protocol>file</protocol>
+										<resource/>
+										<targetFrame>testsite</targetFrame>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: file:///C:/Program%20Files%20(x86)/Badboy/html/tutorial/sscatalog.html
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>windows-1252</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+									<FormPopulator v='7'>
+										<ver>14</ver>
+										<id>67</id>
+										<Summary v='3'>
+											<maxResponseTime>0</maxResponseTime>
+											<averageResponseTime>0</averageResponseTime>
+										</Summary>
+										<childCount>1</childCount>
+										<ChildItems>
+											<FormValue v='7'>
+												<ver>14</ver>
+												<id>68</id>
+												<name>giftwrap</name>
+												<value>on</value>
+												<matchVisibleText>false</matchVisibleText>
+												<sendEvents>true</sendEvents>
+												<retainFocus>false</retainFocus>
+												<useRegex>false</useRegex>
+											</FormValue>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<formName>buyForm</formName>
+										<submit>false</submit>
+										<formIndex>0</formIndex>
+										<ignoreHiddenFields>true</ignoreHiddenFields>
+										<useRegex>false</useRegex>
+									</FormPopulator>
+									<Navigation v='9'>
+										<ver>14</ver>
+										<id>69</id>
+										<Summary v='3'>
+											<maxResponseTime>0</maxResponseTime>
+											<averageResponseTime>0</averageResponseTime>
+										</Summary>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<targetFrame>testsite</targetFrame>
+										<continueOnFailure>true</continueOnFailure>
+										<references>
+											<count>2</count>
+											<VisibleTextReference v='3'>
+												<value>Purchase</value>
+												<filter>Buttons</filter>
+												<clickTargetPath/>
+											</VisibleTextReference>
+											<JavascriptReference v='3'>
+												<value>testsite.document.buyForm.getElementsByTagName(&apos;TABLE&apos;)[0].getElementsByTagName(&apos;TBODY&apos;)[0].getElementsByTagName(&apos;TR&apos;)[3].getElementsByTagName(&apos;TD&apos;)[1].getElementsByTagName(&apos;INPUT&apos;)[0]</value>
+												<filter>Buttons</filter>
+												<clickTargetPath/>
+											</JavascriptReference>
+										</references>
+										<isPassive>false</isPassive>
+										<passiveTimeoutMs>1000</passiveTimeoutMs>
+										<useRegex>false</useRegex>
+										<allowHidden>true</allowHidden>
+										<clickTargetPath/>
+									</Navigation>
+								</ChildItems>
+								<timeoutEnabled>false</timeoutEnabled>
+								<Object>null</Object>
+								<targetWindow/>
+								<itemName/>
+								<documentation/>
+								<waitForPageToLoad>false</waitForPageToLoad>
+								<sourceLocation/>
+								<recordResponses>true</recordResponses>
+								<quiescenceTimeMs>500</quiescenceTimeMs>
+								<disabled>false</disabled>
+								<ignoreErrors>false</ignoreErrors>
+								<errorFilter/>
+								<Object>null</Object>
+								<name>Step 1</name>
+								<repetitions>1</repetitions>
+								<repeatType>2</repeatType>
+								<repeatVariable>New Variable</repeatVariable>
+								<incrementAutomatically>true</incrementAutomatically>
+								<incrementAll>true</incrementAll>
+								<expanded>1</expanded>
+							</Step>
+						</ChildItems>
+						<timeoutEnabled>false</timeoutEnabled>
+						<Object>null</Object>
+						<targetWindow/>
+						<itemName/>
+						<documentation/>
+						<waitForPageToLoad>false</waitForPageToLoad>
+						<sourceLocation/>
+						<recordResponses>true</recordResponses>
+						<quiescenceTimeMs>500</quiescenceTimeMs>
+						<disabled>false</disabled>
+						<ignoreErrors>false</ignoreErrors>
+						<errorFilter/>
+						<Object>null</Object>
+						<title>Test 1</title>
+						<template/>
+						<expanded>1</expanded>
+					</TestItem>
+				</ChildItems>
+				<timeoutEnabled>false</timeoutEnabled>
+				<Object>null</Object>
+				<targetWindow/>
+				<itemName>Test Suite 1</itemName>
+				<documentation/>
+				<waitForPageToLoad>false</waitForPageToLoad>
+				<sourceLocation/>
+				<recordResponses>true</recordResponses>
+				<quiescenceTimeMs>500</quiescenceTimeMs>
+				<disabled>false</disabled>
+				<ignoreErrors>false</ignoreErrors>
+				<errorFilter/>
+				<Object>null</Object>
+				<expanded>1</expanded>
+			</SuiteItem>
+		</ChildItems>
+		<defaultHeaders/>
+		<itemName>VasquezEugene_Tutorial.bx</itemName>
+		<documentation/>
+	</Script>
+</WebScript>
