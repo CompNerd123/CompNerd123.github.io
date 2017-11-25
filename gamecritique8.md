@@ -1,18 +1,18 @@
 # Information
 ## Game Title
-Full title of the game.
+Payday 2
 ## Game Type
-The genre and play style of the game
+Action, RPG; Intermediate
 ## Platform
-What systems do they play on besides the PC master race?
+Playstation, Xbox
 ## Game Rating
-metacritic score 
+79
 ## Publisher
-who released this pile of code
+Starbreeze Publishing AB	
 ## Developer
-Who made this pile of code
+OVERKILL - a Starbreeze Studio. 
 ## Publishing Date
-When did they make it?
+Aug 13, 2013
 # Synopsis
 Game premise or short one to two sentence overview
 
