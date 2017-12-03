@@ -13,5 +13,6 @@
 * [Badboy Tutorial File](VasquezEugene_Tutorial.bx)
 * [Game Review Seven](gamecritique7.md)
 * [Game Review Eight](gamecritique8.md)
+* [Game Review Nine](gamecritique9.md)
 
 Go back to [home page](index.md).
