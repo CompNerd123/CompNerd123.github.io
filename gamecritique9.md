@@ -1,18 +1,18 @@
 # Information
 ## Game Title
-Full title of the game.
+Pocket Mortys
 ## Game Type
-The genre and play style of the game
+Action Adventure, General
 ## Platform
-What systems do they play on besides the PC master race?
+Only on handheld
 ## Game Rating
-metacritic score 
+73
 ## Publisher
-who released this pile of code
+Adult Swim
 ## Developer
-Who made this pile of code
+Big Pixel Studios
 ## Publishing Date
-When did they make it?
+Jan 13, 2016
 # Synopsis
 Game premise or short one to two sentence overview
 
